@@ -32,6 +32,7 @@ int main()
 		return 0;
 	}
 	cout << "Done." << endl;
+	cout << "test" << endl;
 	system("pause");
 	FindClose(hFind);
 	return 0;
